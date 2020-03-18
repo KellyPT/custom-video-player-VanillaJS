@@ -1,3 +1,5 @@
+# Custom Video Player with VanillaJS
+
 ## Objective
 Render a simple video player using pure [JavaScript Video and Audio APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs), HTML5 video element and CSS.
 
